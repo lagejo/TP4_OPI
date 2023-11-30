@@ -1,0 +1,16 @@
+Exercice 1
+1. Suivi des instructions.
+2. mkdir depot_git
+cd depot_git
+git init 
+Dépôt Git vide initialisé dans /home/pltguest/Documents/TP1/depot_git/.git/
+
+4. Après avoir rentré git status le message : "git status
+Sur la branche master
+
+Aucun commit
+
+rien à valider (créez/copiez des fichiers et utilisez "git add" pour les suivre)" s'affiche.
+Cela s'affiche car il n'y a pour l'instant aucun fichier dans le répertoire git, aucun commit n'a encore été effectué.
+
+5.
